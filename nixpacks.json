@@ -1,0 +1,8 @@
+{
+  "build": {
+    "command": "pip install -r requirements.txt"
+  },
+  "start": {
+    "command": "cd Gas_CaseStudy && python manage.py runserver 0.0.0.0:8000"
+  }
+}
